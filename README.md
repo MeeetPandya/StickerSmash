@@ -1,6 +1,6 @@
 # Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app). By folowing the Expo Docs Tutorial.
 
 ## Get started
 
@@ -48,3 +48,9 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## Screens
+
+[!Home Screen](/assets/images/home-image.png)
+[!Upload_Screen](/assets/images/upload-image.png)
+[!Saved OutPut Image](</assets/images/sticker-smash-image%20(1).jpeg>)
